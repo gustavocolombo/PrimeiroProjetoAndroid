@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PrimeiroTrabalhoAndroid</string>
+    <string name="toggleButton01">toggle_turn_on</string>
+    <string name="toggleButton02">toggle_turn_off</string>
+    <string name="btn_display">Display</string>
+    <string name="edtInput">Digite</string>
+    <string name="radio_kotlin">Kotlin</string>
+    <string name="radio_java">Java</string>
+    <string name="select">Selecione um item</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
